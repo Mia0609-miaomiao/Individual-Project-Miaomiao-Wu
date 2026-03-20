@@ -1,1 +1,6 @@
 
+# requirements.txt
+grpcio==1.70.0
+grpcio-tools==1.70.0
+Pillow==11.1.0
+protobuf==5.29.3
